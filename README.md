@@ -40,7 +40,7 @@ conda activate deep-learning
 
 ## Auteur
 
-Pierre IMBERT: pierre.damase.mbert@gmail.com
+Pierre IMBERT
 
 Université de Paris M2-BI
 
